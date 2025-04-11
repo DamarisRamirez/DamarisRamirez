@@ -1,8 +1,8 @@
 # 😊 Sobre mi
 
-👉 Mi nombre es Damaris Ramírez Vera, soy desarrolladora full stack
-  > 💼 Actualmente trabajando para consultora de software Zonar
-   > 🌎 Santiago, Chile
+- 👉 Mi nombre es Damaris Ramírez Vera, soy desarrolladora full stack
+- 💼 Actualmente trabajando para consultora de software Zonar
+- 🌎 Santiago, Chile
 
 
 ---
@@ -26,6 +26,8 @@
 ### 💠 [Pipeline con Jenkins](https://github.com/DamarisRamirez/pruebaIntegracionJenkins) <--- Haz click para ir al proyecto 
 > Este proyecto muestra una API Node.js orientada a gestión de usuarios, integrada con Docker para contenerización y Jenkins para el pipeline de CI/CD.
 
+---
+
 ### 🎮 [Mokepunk](https://damarisramirez.github.io/mokepunk/)  <--- Haz click para probarlo!
 > Un mini-juego estilo Pokémon, todo hecho con JavaScript Vainilla
 
@@ -36,15 +38,15 @@
 ### 🔢 [Calculadora](https://damarisramirez.github.io/calculadora/) <--- Haz click para probarlo!
 > Una calculadora web funcional.
 
-<img src="https://github.com/DamarisRamirez/calculadora/raw/main/calculadora.png" width="400" alt="Captura de Calculadora"/>
+<img src="https://github.com/DamarisRamirez/calculadora/raw/main/calculadora.png" width="350" alt="Captura de Calculadora"/>
 
 ---
 
 
-## 📫 Contacto
+## 📬 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/damaris-ramirez-vera/)
-- ✉️ dms.ramirez@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DamarisRamirez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/damaris-ramirez-vera/)
+[![Gmail](https://img.shields.io/badge/Gmail-dms.ramirez@gmail.com-red?style=flat&logo=gmail)](mailto:dms.ramirez@gmail.com)
 
 ---
 
