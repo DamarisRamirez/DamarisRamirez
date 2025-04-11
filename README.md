@@ -16,7 +16,7 @@ Mi nombre es Damaris Ramírez Vera, soy de Santiago, Chile. Me desempeño como d
 ### 🧮 [Calculadora](https://damarisramirez.github.io/calculadora/)
 > Una calculadora web funcional.
 
-<img src="https://github.com/DamarisRamirez/calculadora/raw/main/calculadpra.png" width="400" alt="Captura de Calculadora"/>
+<img src="https://github.com/DamarisRamirez/calculadora/raw/main/calculadora.png" width="400" alt="Captura de Calculadora"/>
 
 ---
 
