@@ -1,17 +1,21 @@
-# 👩‍💻 ¡Hola!
+# 😊 Sobre mi
 
-Mi nombre es Damaris Ramírez Vera, me desempeño como desarrolladora Full Stack, actualmente trabajando en consultora de software Zonar.
+👉 Mi nombre es Damaris Ramírez Vera, soy desarrolladora full stack
+  > 💼 Actualmente trabajando para consultora de software Zonar
+   > 🌎 Santiago, Chile
+
 
 ---
 
 
-## 🛠 Tecnologías que utilizo
+## 🛠 Tecnologías Destacadas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 
@@ -43,4 +47,4 @@ Mi nombre es Damaris Ramírez Vera, me desempeño como desarrolladora Full Stack
 - ✉️ dms.ramirez@gmail.com
 
 ---
-🌎 Santiago, Chile
+
