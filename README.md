@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👩‍💻 ¡Hola!
 
-<!--
-**DamarisRamirez/DamarisRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Damaris Ramírez Vera, soy de Santiago, Chile. Me desempeño como desarrolladora Full Stack, actualmente trabajando en Zonar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+
+### 🎮 [Mokepunk](https://damarisramirez.github.io/mokepunk/)
+> Un mini-juego estilo Pokémon, todo hecho con JavaScript Vainilla
+
+<img src="https://github.com/DamarisRamirez/mokepunk/raw/main/capturaMokepon.png" width="400" alt="Captura de Mokepunk"/>
+
+---
+
+### 🧮 [Calculadora](https://damarisramirez.github.io/calculadora/)
+> Una calculadora web funcional.
+
+<img src="https://github.com/DamarisRamirez/calculadora/raw/main/calculadpra.png" width="400" alt="Captura de Calculadora"/>
+
+---
+
+## 🛠 Tecnologías que uso
+
+- HTML5, CSS, JavaScript
+- Docker
+- PostgreSQL
+
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/damaris-ramirez-vera/)
+- ✉️ dms.ramirez@gmail.com
+
+---
